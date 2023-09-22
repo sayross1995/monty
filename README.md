@@ -17,7 +17,7 @@ ALX - Simple Unix Like Shell
 
 - clone the repository
 
-    https://github.com/Sertsev/monty
+    https://github.com/Sayross1995/monty
 
 - compile with
 
